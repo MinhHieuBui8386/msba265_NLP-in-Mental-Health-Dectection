@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 # Load the dataset from your CSV file
-file_path = r'C:\Users\nehal\Documents\GitHub\msba265-finalstorage\data_storage\emojis.csv'
+file_path = 'msba265-finalstorage\data_storage\emojis.csv'
 df = pd.read_csv(file_path)
 
 # Inspect the data to understand its structure
