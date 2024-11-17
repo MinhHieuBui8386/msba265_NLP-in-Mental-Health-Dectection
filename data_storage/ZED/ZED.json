@@ -1,0 +1,2162 @@
+{
+    "spk1_1": {
+        "wav": "datafolder/spk1_1.wav",
+        "duration": 6.144,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 3.763,
+                "end": 6.144
+            }
+        ],
+        "transcription": "It would be readily obvious to people who serving oppositing that's exactly what they are trying to do"
+    },
+    "spk1_2": {
+        "wav": "datafolder/spk1_2.wav",
+        "duration": 6.336,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.016,
+                "end": 6.336
+            }
+        ],
+        "transcription": "including some extraordinarily stupid noisy yelling"
+    },
+    "spk2_1": {
+        "wav": "datafolder/spk2_1.wav",
+        "duration": 9.130,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 6.422,
+                "end": 9.130
+            }
+        ],
+        "transcription": "a girl that lived on the second floor, her ex boyfriend ah set a fire, and the smoke, you know, killed my son while he was upstair sleeping"
+    },
+    "spk2_2": {
+        "wav": "datafolder/spk2_2.wav",
+        "duration": 5.832,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.420,
+                "end": 5.832
+            }
+        ],
+        "transcription": "you know set the fire and intended to kill her, and you know Joey didn't make it you know"
+    },
+    "spk2_3": {
+        "wav": "datafolder/spk2_3.wav",
+        "duration": 7.259,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.339,
+                "end": 7.259
+            }
+        ],
+        "transcription": "I don't understand what he was thinking of but his stuîd act has ruined lives of people he didn't even know existed"
+    },
+    "spk2_4": {
+        "wav": "datafolder/spk2_4.wav",
+        "duration": 4.517,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.986,
+                "end": 4.517
+            }
+        ],
+        "transcription": "we've never done anything to her I've never got a traffic ticket, nothing"
+    },
+    "spk2_5": {
+        "wav": "datafolder/spk2_5.wav",
+        "duration": 4.451,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 4.451
+            }
+        ],
+        "transcription": "further and we'll be punished the rest of our lives because of someone we didn't even know"
+    },
+    "spk2_6": {
+        "wav": "datafolder/spk2_6.wav",
+        "duration": 10.103,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 3.651,
+                "end": 10.103
+            }
+        ],
+        "transcription": "if he would've ah been in a car accident where there was an accident or something but to know that someone deliberately, while he was sleeping that where is the safest place you think child is in bed sleeping"
+    },
+    "spk2_7": {
+        "wav": "datafolder/spk2_7.wav",
+        "duration": 4.731,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.903,
+                "end": 4.731
+            }
+        ],
+        "transcription": "all of us I mean just the emptyness the sick feeling that you have inside you every single day"
+    },
+    "spk2_8": {
+        "wav": "datafolder/spk2_8.wav",
+        "duration": 3.391,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.040,
+                "end": 3.391
+            }
+        ],
+        "transcription": "not a day goes by that I don't do not shed a tear, not one day"
+    },
+    "spk3_1": {
+        "wav": "datafolder/spk3_1.wav",
+        "duration": 2.991,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.30,
+                "end": 2.991
+            }
+        ],
+        "transcription": "I'm very angry, and I mean"
+    },
+    "spk3_2": {
+        "wav": "datafolder/spk3_2.wav",
+        "duration": 4.512,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.057,
+                "end": 4.512
+            }
+        ],
+        "transcription": "from time to time I'll burst into the screaming face, in my own house"
+    },
+    "spk3_3": {
+        "wav": "datafolder/spk3_3.wav",
+        "duration": 3.785,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 3.785
+            }
+        ],
+        "transcription": "I sit on my couch and cry and I live like a spire I mean"
+    },
+    "spk3_4": {
+        "wav": "datafolder/spk3_4.wav",
+        "duration": 3.912,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.926,
+                "end": 3.912
+            }
+        ],
+        "transcription": "I'm scared to death to answer the phone or or answer the door"
+    },
+    "spk4_1": {
+        "wav": "datafolder/spk4_1.wav",
+        "duration": 4.116,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 2.685
+            }
+        ],
+        "transcription": "you know that was my baby my new born baby on there that I I'm never gonna get that back"
+    },
+    "spk4_2": {
+        "wav": "datafolder/spk4_2.wav",
+        "duration": 3.637,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 1.039
+            }
+        ],
+        "transcription": "and I, I actually had called kept calling my house"
+    },
+    "spk4_3": {
+        "wav": "datafolder/spk4_3.wav",
+        "duration": 5.562,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 5.562
+            }
+        ],
+        "transcription": "what do you do if you are violated it's just like it's like they've been in your home, they've been through your things and"
+    },
+    "spk4_4": {
+        "wav": "datafolder/spk4_4.wav",
+        "duration": 5.610,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 1.960
+            }
+        ],
+        "transcription": "I just it's not a good feeling, they are there for twenty minutes they'll rock your life for a year"
+    },
+    "spk5_1": {
+        "wav": "datafolder/spk5_1.wav",
+        "duration": 4.302,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.768,
+                "end": 4.302
+            }
+        ],
+        "transcription": "it's like we hold the truth and we can't get near one another"
+    },
+    "spk5_2": {
+        "wav": "datafolder/spk5_2.wav",
+        "duration": 3.666,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 3.666
+            }
+        ],
+        "transcription": "it's too horrible to even see each other it's so painful"
+    },
+    "spk6_1": {
+        "wav": "datafolder/spk6_1.wav",
+        "duration": 5.999,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.468,
+                "end": 5.999
+            }
+        ],
+        "transcription": "at that point and time, I realized my life was in danger and I didn't want to stay in this relationship"
+    },
+    "spk6_2": {
+        "wav": "datafolder/spk6_2.wav",
+        "duration": 4.810,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.766,
+                "end": 2.657
+            }
+        ],
+        "transcription": "I see all of the additional stigma in our society"
+    },
+    "spk6_3": {
+        "wav": "datafolder/spk6_3.wav",
+        "duration": 4.489,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 4.489
+            }
+        ],
+        "transcription": "I see how they are being targeted for crime and abuse"
+    },
+    "spk7_1": {
+        "wav": "datafolder/spk7_1.wav",
+        "duration": 7.092,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 4.463,
+                "end": 7.092
+            }
+        ],
+        "transcription": "and I wasn't really talking to my family because I had pretty much pushed them other way side, they didn't like him or how he treated me"
+    },
+    "spk7_2": {
+        "wav": "datafolder/spk7_2.wav",
+        "duration": 2.641,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 2.641
+            }
+        ],
+        "transcription": "to see and, so there was nobody to go to"
+    },
+    "spk7_3": {
+        "wav": "datafolder/spk7_3.wav",
+        "duration": 2.863,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.729,
+                "end": 2.006
+            }
+        ],
+        "transcription": "you go through the whole realm of emotions, one minute you are"
+    },
+    "spk7_4": {
+        "wav": "datafolder/spk7_4.wav",
+        "duration": 3.410,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.100,
+                "end": 3.410
+            }
+        ],
+        "transcription": "mad as a hatter that you allowed yourself to do this or that he did to you"
+    },
+    "spk7_5": {
+        "wav": "datafolder/spk7_5.wav",
+        "duration": 8.251,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 8.251
+            }
+        ],
+        "transcription": "I think about it that was probably the most painful and still probably the the hardest to get passed, emm you know when you are in a relationship with someone you love"
+    },
+    "spk7_6": {
+        "wav": "datafolder/spk7_6.wav",
+        "duration": 4.725,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.544,
+                "end": 4.725
+            }
+        ],
+        "transcription": "being a victim of domestic violence has really affected my whole entire family and friend structure"
+    },
+    "spk7_7": {
+        "wav": "datafolder/spk7_7.wav",
+        "duration": 8.500,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 4.864,
+                "end": 8.500
+            }
+        ],
+        "transcription": "or getting into a relationship again, emm, I can't imagine being intimite, I'm afraid that if I put myself out there it will happen again"
+    },
+    "spk7_8": {
+        "wav": "datafolder/spk7_8.wav",
+        "duration": 1.769,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 1.769
+            }
+        ],
+        "transcription": "I was too loved in the relationship"
+    },
+    "spk8_1": {
+        "wav": "datafolder/spk8_1.wav",
+        "duration": 3.624,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.129,
+                "end": 3.624
+            }
+        ],
+        "transcription": "and so you've got the hate, you know it just is intense hate"
+    },
+    "spk8_2": {
+        "wav": "datafolder/spk8_2.wav",
+        "duration": 4.891,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.361,
+                "end": 4.891
+            }
+        ],
+        "transcription": "so now you've got all this hatred for this person and you got all this pain and sorrow"
+    },
+    "spk8_3": {
+        "wav": "datafolder/spk8_3.wav",
+        "duration": 2.857,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 0.665
+            }
+        ],
+        "transcription": "they still don't see themselves as a problem, you know because"
+    },
+    "spk8_4": {
+        "wav": "datafolder/spk8_4.wav",
+        "duration": 3.033,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.195,
+                "end": 3.033
+            }
+        ],
+        "transcription": "maybe somebody isn't in their face showing them a picture of their dead daughter"
+    },
+    "spk8_5": {
+        "wav": "datafolder/spk8_5.wav",
+        "duration": 3.728,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.303,
+                "end": 3.130
+            }
+        ],
+        "transcription": "you know maybe that'll, I don't know, help deter you, you wanna drink drink take a cab"
+    },
+    "spk9_1": {
+        "wav": "datafolder/spk9_1.wav",
+        "duration": 2.844,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.896,
+                "end": 2.844
+            }
+        ],
+        "transcription": "it it was hard, it was very hard to deal with that"
+    },
+    "spk9_2": {
+        "wav": "datafolder/spk9_2.wav",
+        "duration": 4.679,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 4.679
+            }
+        ],
+        "transcription": "and it hurts, because I know my son wanted to live and it wasn't fair, it was not fair"
+    },
+    "spk10_1": {
+        "wav": "datafolder/spk10_1.wav",
+        "duration": 2.931,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.760,
+                "end": 2.931
+            }
+        ],
+        "transcription": "human being just covering his face and had to survive"
+    },
+    "spk10_2": {
+        "wav": "datafolder/spk10_2.wav",
+        "duration": 2.089,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.090,
+                "end": 2.089
+            }
+        ],
+        "transcription": "getting into an argument playing basketball"
+    },
+    "spk11_1": {
+        "wav": "datafolder/spk11_1.wav",
+        "duration": 4.615,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.694,
+                "end": 4.615
+            }
+        ],
+        "transcription": "I got the the nickname angry Amy when I was working in the salon"
+    },
+    "spk11_2": {
+        "wav": "datafolder/spk11_2.wav",
+        "duration": 5.364,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.206,
+                "end": 3.905
+            }
+        ],
+        "transcription": "I don't see it is being anger I see it is being realistic ha ha ha ha, I can't care about his life"
+    },
+    "spk11_3": {
+        "wav": "datafolder/spk11_3.wav",
+        "duration": 5.019,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.208,
+                "end": 2.755
+            }
+        ],
+        "transcription": "my quality of life will never be the same as it was, you know, my innocence is completely gone"
+    },
+    "spk11_4": {
+        "wav": "datafolder/spk11_4.wav",
+        "duration": 4.413,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.508,
+                "end": 4.413
+            }
+        ],
+        "transcription": "very little life can show me that is gonna be as good as when Joe was alive"
+    },
+    "spk12_1": {
+        "wav": "datafolder/spk12_1.wav",
+        "duration": 5.203,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 3.964,
+                "end": 5.203
+            }
+        ],
+        "transcription": "I do know that there is a lot of people who commit this crime and think that they"
+    },
+    "spk12_2": {
+        "wav": "datafolder/spk12_2.wav",
+        "duration": 3.800,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.732,
+                "end": 2.429
+            }
+        ],
+        "transcription": "shouldn't be held responsible, but they should, and they should be punished"
+    },
+    "spk12_3": {
+        "wav": "datafolder/spk12_3.wav",
+        "duration": 4.889,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.532,
+                "end": 4.889
+            }
+        ],
+        "transcription": "if you shared with us the court again, or tried to get out on parole again, I want to be there too"
+    },
+    "spk12_4": {
+        "wav": "datafolder/spk12_4.wav",
+        "duration": 3.499,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.703,
+                "end": 3.499
+            }
+        ],
+        "transcription": "because even though I know I won't get my daughter again, I miss her"
+    },
+    "spk12_5": {
+        "wav": "datafolder/spk12_5.wav",
+        "duration": 6.453,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.758,
+                "end": 6.453
+            }
+        ],
+        "transcription": "but god has been with me, I'm doing the best I can, and I'm sure they wouldn't want me eh cry everyday on"
+    },
+    "spk12_6": {
+        "wav": "datafolder/spk12_6.wav",
+        "duration": 6.384,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.975,
+                "end": 6.384
+            }
+        ],
+        "transcription": "you know, suffering because of them, I could hear that mama, you have to go on, you have to live, so that's what I'm trying to do"
+    },
+    "spk13_1": {
+        "wav": "datafolder/spk13_1.wav",
+        "duration": 6.390,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 3.145,
+                "end": 6.390
+            }
+        ],
+        "transcription": "then I knew that if I screamed, then I was afraid that it would the end result would be not only my death but his death as well"
+    },
+    "spk13_2": {
+        "wav": "datafolder/spk13_2.wav",
+        "duration": 3.281,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.754,
+                "end": 3.281
+            }
+        ],
+        "transcription": "I went into imediate shock, I was like a zombie, it was like"
+    },
+    "spk13_3": {
+        "wav": "datafolder/spk13_3.wav",
+        "duration": 4.927,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 4.927
+            }
+        ],
+        "transcription": "this can't have really happened to me, you know I've got to be dreaming and I just can't wake up"
+    },
+    "spk13_4": {
+        "wav": "datafolder/spk13_4.wav",
+        "duration": 3.902,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 3.902
+            }
+        ],
+        "transcription": "there are a lot of people told me after I was attacked Debbie at least you are alive"
+    },
+    "spk13_5": {
+        "wav": "datafolder/spk13_5.wav",
+        "duration": 5.787,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 2.249
+            }
+        ],
+        "transcription": "and I remember thinking I'm not alive, I felt like I could not trust anybody especially of course strangers"
+    },
+    "spk13_6": {
+        "wav": "datafolder/spk13_6.wav",
+        "duration": 5.596,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 3.957,
+                "end": 5.596
+            }
+        ],
+        "transcription": "I need to be able to look at him eye to eye and say you can't hurt me anymore"
+    },
+    "spk13_7": {
+        "wav": "datafolder/spk13_7.wav",
+        "duration": 2.521,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 2.521
+            }
+        ],
+        "transcription": "it's over and it's done, and I need that for me"
+    },
+    "spk14_1": {
+        "wav": "datafolder/spk14_1.wav",
+        "duration": 4.618,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 3.303,
+                "end": 4.618
+            }
+        ],
+        "transcription": "I'm born race here in LA, I am one of the five you can pinch me I'm real, see oh yes"
+    },
+    "spk14_2": {
+        "wav": "datafolder/spk14_2.wav",
+        "duration": 2.637,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.482,
+                "end": 2.637
+            }
+        ],
+        "transcription": "no I'm I'm from here I'm from here"
+    },
+    "spk14_3": {
+        "wav": "datafolder/spk14_3.wav",
+        "duration": 2.424,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.135,
+                "end": 1.543
+            }
+        ],
+        "transcription": "ah I studied french for eight years"
+    },
+    "spk14_4": {
+        "wav": "datafolder/spk14_4.wav",
+        "duration": 2.367,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 1.210
+            }
+        ],
+        "transcription": "now it's deplorable I can't remember anything"
+    },
+    "spk14_5": {
+        "wav": "datafolder/spk14_5.wav",
+        "duration": 4.390,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 3.266,
+                "end": 4.390
+            }
+        ],
+        "transcription": "it's a perverse place for a little girl who went to catholic school no less to grow up"
+    },
+    "spk14_6": {
+        "wav": "datafolder/spk14_6.wav",
+        "duration": 3.858,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.888,
+                "end": 3.257
+            }
+        ],
+        "transcription": "curly hair and gap in my teeth and yeah I guess it could work I mean I they watched me"
+    },
+    "spk15_1": {
+        "wav": "datafolder/spk15_1.wav",
+        "duration": 10.967,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 3.261,
+                "end": 10.967
+            }
+        ],
+        "transcription": "UK can do it France can do it Germany can do it all of europe can do it, gee whiz somehow or another we are the only major country on earth that can't do it, why is that"
+    },
+    "spk16_1": {
+        "wav": "datafolder/spk16_1.wav",
+        "duration": 4.981,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.663,
+                "end": 4.981
+            }
+        ],
+        "transcription": "I will not be lectured about sexism and misogyny by this man"
+    },
+    "spk17_1": {
+        "wav": "datafolder/spk17_1.wav",
+        "duration": 5.716,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 3.970,
+                "end": 5.716
+            }
+        ],
+        "transcription": "she was the best audience she was the one I was always trying to make laugh and she was such a fan of the show and eveything I I did"
+    },
+    "spk17_2": {
+        "wav": "datafolder/spk17_2.wav",
+        "duration": 4.800,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.611,
+                "end": 4.800
+            }
+        ],
+        "transcription": "when we were little my mom would walk us to the store near my sister and she would hold hands"
+    },
+    "spk17_3": {
+        "wav": "datafolder/spk17_3.wav",
+        "duration": 6.443,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 6.443
+            }
+        ],
+        "transcription": "last week us in the hospital I just grabbed her hand and I squeezed I love you, I just knew you were in trouble yeah"
+    },
+    "spk17_4": {
+        "wav": "datafolder/spk17_4.wav",
+        "duration": 12.181,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 7.948
+            }
+        ],
+        "transcription": "but I feel so grateful to be able to do this every single night and I'm very appreciative of all the support from all of you that my family received over the past week, we are gonna continue to work really hard to bring some light and some laughter into the world"
+    },
+    "spk17_5": {
+        "wav": "datafolder/spk17_5.wav",
+        "duration": 5.862,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 3.397,
+                "end": 5.862
+            }
+        ],
+        "transcription": "thank you for watching thank you for helping me and my family recover from this loss, mama I'll never stop trying to make you laugh, I love you"
+    },
+    "spk18_1": {
+        "wav": "datafolder/spk18_1.wav",
+        "duration": 6.208,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 3.225,
+                "end": 6.208
+            }
+        ],
+        "transcription": "it's been three years we we work together with this team, perso personally it's something special to leave such people"
+    },
+    "spk19_1": {
+        "wav": "datafolder/spk19_1.wav",
+        "duration": 7.676,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 6.032
+            }
+        ],
+        "transcription": "you welcomed a a chubby unathletic kid into the program with open arms I wouldn't say that many would do that but thank you, that's the thing the most thankful for us"
+    },
+    "spk19_2": {
+        "wav": "datafolder/spk19_2.wav",
+        "duration": 3.218,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.121,
+                "end": 2.547
+            }
+        ],
+        "transcription": "coach Riley the day that you did that changed my life so appreciate that"
+    },
+    "spk19_3": {
+        "wav": "datafolder/spk19_3.wav",
+        "duration": 3.967,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.519,
+                "end": 3.425
+            }
+        ],
+        "transcription": "coach Riley he've been a great mentor to me we've been through a lot together so appreciate you"
+    },
+    "spk19_4": {
+        "wav": "datafolder/spk19_4.wav",
+        "duration": 10.556,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 6.285
+            }
+        ],
+        "transcription": "there were times I had to move you guys made sacrifice after sacrifice just so I could chase my dreams, wouldn't be here without you, love you, like I said sacrifice after sacrifice you guys have instilled a mentality in me"
+    },
+    "spk20_1": {
+        "wav": "datafolder/spk20_1.wav",
+        "duration": 8.399,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 6.731
+            }
+        ],
+        "transcription": "mom dad and rest of my family, thank you, thank you for sacrificing and providing me and Matt every opportunity I could ever have, words can't express how much you guys"
+    },
+    "spk20_2": {
+        "wav": "datafolder/spk20_2.wav",
+        "duration": 5.988,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.338,
+                "end": 5.180
+            }
+        ],
+        "transcription": "I'm truly grateful to have you guys in my life, mom and dad, thank you for your love and and sharing that with me and matt, we are truly grateful"
+    },
+    "spk21_1": {
+        "wav": "datafolder/spk21_1.wav",
+        "duration": 2.959,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 2.959
+            }
+        ],
+        "transcription": "I don't think I could say that I'm about to go red"
+    },
+    "spk22_1": {
+        "wav": "datafolder/spk22_1.wav",
+        "duration": 3.072,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.650,
+                "end": 3.072
+            }
+        ],
+        "transcription": "what I, no but it is but I am on the room ha ha ha ha"
+    },
+    "spk23_1": {
+        "wav": "datafolder/spk23_1.wav",
+        "duration": 6.826,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.257,
+                "end": 5.661
+            }
+        ],
+        "transcription": "you know what's bad, I ship them actually, haha so I feel like haha I know it's just a personal thing"
+    },
+    "spk23_2": {
+        "wav": "datafolder/spk23_2.wav",
+        "duration": 10.444,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 3.611,
+                "end": 10.444
+            }
+        ],
+        "transcription": "but I think they are both great I got to do with both of them but not like I'd like to thether anything ha ha ha ha ha ha ha, I like to make sure that we all knew we were alike, this is going down the hall ha ha ha ha ha"
+    },
+    "spk23_3": {
+        "wav": "datafolder/spk23_3.wav",
+        "duration": 3.401,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 1.598
+            }
+        ],
+        "transcription": "ha ha ha I think it would be like what but I'd be like I'm having the best"
+    },
+    "spk23_4": {
+        "wav": "datafolder/spk23_4.wav",
+        "duration": 4.113,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 4.113
+            }
+        ],
+        "transcription": "and also I did have to chill in that outfit just be like ha people will be funny"
+    },
+    "spk23_5": {
+        "wav": "datafolder/spk23_5.wav",
+        "duration": 3.790,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.461,
+                "end": 3.790
+            }
+        ],
+        "transcription": "purely because I think the slave out it will get really cold ha ha ha ha"
+    },
+    "spk23_6": {
+        "wav": "datafolder/spk23_6.wav",
+        "duration": 2.975,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 1.216
+            }
+        ],
+        "transcription": "and I think there'd be a lot of ugly wugly is that the word"
+    },
+    "spk23_7": {
+        "wav": "datafolder/spk23_7.wav",
+        "duration": 1.518,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.748,
+                "end": 1.518
+            }
+        ],
+        "transcription": "phasma's just looks really cool"
+    },
+    "spk24_1": {
+        "wav": "datafolder/spk24_1.wav",
+        "duration": 13.077,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 4.530,
+                "end": 7.359
+            }
+        ],
+        "transcription": "I've been singing is coming home for the last couple weeks and trying you know trying not to jinx it yeah of course between between the football and the love island there's like literally been no other conversations"
+    },
+    "spk24_2": {
+        "wav": "datafolder/spk24_2.wav",
+        "duration": 5.703,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.605,
+                "end": 5.703
+            }
+        ],
+        "transcription": "once we finish talking about one subject we just go back to the other again, I think it's coming home it's definitely coming home yes"
+    },
+    "spk24_3": {
+        "wav": "datafolder/spk24_3.wav",
+        "duration": 4.550,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.684,
+                "end": 4.550
+            }
+        ],
+        "transcription": "that atmosphere it's just like that's unreal that's so good I'm gonna get excited just thinking about it"
+    },
+    "spk25_1": {
+        "wav": "datafolder/spk25_1.wav",
+        "duration": 7.420,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 7.420
+            }
+        ],
+        "transcription": "what's that that just means bob's your uncle like yeah like Bob's your uncle alright ok that's so weird that is so weird you guys have such weird slang"
+    },
+    "spk26_1": {
+        "wav": "datafolder/spk26_1.wav",
+        "duration": 5.421,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.673,
+                "end": 5.421
+            }
+        ],
+        "transcription": "having a deal with fifty little ha ha ha little kill mongers"
+    },
+    "spk26_2": {
+        "wav": "datafolder/spk26_2.wav",
+        "duration": 4.343,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.099,
+                "end": 4.343
+            }
+        ],
+        "transcription": "I don't want to go to go on a date with either one of them, that's too much drama either way"
+    },
+    "spk27_1": {
+        "wav": "datafolder/spk27_1.wav",
+        "duration": 5.624,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.694,
+                "end": 3.504
+            }
+        ],
+        "transcription": "and I got an email from Yonsei University saying that my admission results are in"
+    },
+    "spk27_2": {
+        "wav": "datafolder/spk27_2.wav",
+        "duration": 3.876,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.960,
+                "end": 3.876
+            }
+        ],
+        "transcription": "but I don't think I wrote the same application number on my application"
+    },
+    "spk28_1": {
+        "wav": "datafolder/spk28_1.wav",
+        "duration": 3.909,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 0.923
+            }
+        ],
+        "transcription": "so it was the middle one, Lily I feel like I can't believe I'm so embarassed"
+    },
+    "spk28_2": {
+        "wav": "datafolder/spk28_2.wav",
+        "duration": 8.938,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 3.807
+            }
+        ],
+        "transcription": "an hour and a half in there just like look at all the things, it was like the first time do you have toys or us either go in their for your first time or disneyland"
+    },
+    "spk29_1": {
+        "wav": "datafolder/spk29_1.wav",
+        "duration": 6.599,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 4.087,
+                "end": 6.599
+            }
+        ],
+        "transcription": "if there's a way to keep growing within that character then that'd be something I'd be interested in thanks man obviously that's that's one Ron Paul"
+    },
+    "spk30_1": {
+        "wav": "datafolder/spk30_1.wav",
+        "duration": 4.043,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 1.153
+            }
+        ],
+        "transcription": "aha there was one moment there was this particular set that had the floor like an ice rink"
+    },
+    "spk30_2": {
+        "wav": "datafolder/spk30_2.wav",
+        "duration": 3.623,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.711,
+                "end": 3.623
+            }
+        ],
+        "transcription": "everyboby fell sometimes mid-shot you see a camera it's just like koom boom"
+    },
+    "spk30_3": {
+        "wav": "datafolder/spk30_3.wav",
+        "duration": 4.515,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.510,
+                "end": 3.808
+            }
+        ],
+        "transcription": "it was just lethal there was so much nice slipping up that happened just quite funny"
+    },
+    "spk30_4": {
+        "wav": "datafolder/spk30_4.wav",
+        "duration": 5.866,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 3.502,
+                "end": 4.395
+            }
+        ],
+        "transcription": "there was ok so this I used to get called exposition Jones in the movie cause sometimes some said I love exposition"
+    },
+    "spk30_5": {
+        "wav": "datafolder/spk30_5.wav",
+        "duration": 5.688,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 1.751
+            }
+        ],
+        "transcription": "haha that's terrible so that happened a bunch and you'd forget and everyone or someone else would have this"
+    },
+    "spk30_6": {
+        "wav": "datafolder/spk30_6.wav",
+        "duration": 3.119,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.063,
+                "end": 3.119
+            }
+        ],
+        "transcription": "I don't know so there's definitely one shot where where where like"
+    },
+    "spk30_7": {
+        "wav": "datafolder/spk30_7.wav",
+        "duration": 6.078,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.890,
+                "end": 6.078
+            }
+        ],
+        "transcription": "what all you can see is the back of mine and Woody's shoulders just going like capping it out to let it get go eh so yeah"
+    },
+    "spk31_1": {
+        "wav": "datafolder/spk31_1.wav",
+        "duration": 10.170,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.662,
+                "end": 8.147
+            }
+        ],
+        "transcription": "what is just always funny yeah it's just always funny like there was a point there was one point we were like we were supposed to be running in a cockpit"
+    },
+    "spk32_1": {
+        "wav": "datafolder/spk32_1.wav",
+        "duration": 8.009,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 5.277,
+                "end": 8.009
+            }
+        ],
+        "transcription": "so him like trying to open a can of coke in corner or him like trying to rattle through this bag to find something or he's like he was fired no always funny never gets old"
+    },
+    "spk33_1": {
+        "wav": "datafolder/spk33_1.wav",
+        "duration": 5.178,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.842,
+                "end": 3.127
+            }
+        ],
+        "transcription": "Paul Bettany can be pretty foul mouth and very funny about it, he's our bad guy, Dryden Vos"
+    },
+    "spk34_1": {
+        "wav": "datafolder/spk34_1.wav",
+        "duration": 9.190,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 3.724
+            }
+        ],
+        "transcription": "I love I love those scenes which is god it's still my favourite things I'm talking to Thalia is the young girl in it about it's an absolutely improvised scene"
+    },
+    "spk35_1": {
+        "wav": "datafolder/spk35_1.wav",
+        "duration": 4.494,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.707,
+                "end": 4.494
+            }
+        ],
+        "transcription": "the clue is emm a park that loves me ha ha ha that's too much to be clear"
+    },
+    "spk35_2": {
+        "wav": "datafolder/spk35_2.wav",
+        "duration": 2.734,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.052,
+                "end": 2.734
+            }
+        ],
+        "transcription": "interpretive or the natural so abstract"
+    },
+    "spk35_3": {
+        "wav": "datafolder/spk35_3.wav",
+        "duration": 6.977,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 3.677
+            }
+        ],
+        "transcription": "he's got little tiny arms on the pointy face, looks like a ferry, this is actually an interpretation of a drawing done of the character"
+    },
+    "spk36_1": {
+        "wav": "datafolder/spk36_1.wav",
+        "duration": 2.751,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.132,
+                "end": 2.751
+            }
+        ],
+        "transcription": "he made a massive error we didn't deserve to win it, you know"
+    },
+    "spk36_2": {
+        "wav": "datafolder/spk36_2.wav",
+        "duration": 5.412,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 5.412
+            }
+        ],
+        "transcription": "we would've won if it wasn't for the nineteen no we didn't deserve to win we didn't win the game because we weren't good enough"
+    },
+    "spk37_1": {
+        "wav": "datafolder/spk37_1.wav",
+        "duration": 4.544,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 4.544
+            }
+        ],
+        "transcription": "the message to the bold of a shape or gear because you've let all the fans down"
+    },
+    "spk37_2": {
+        "wav": "datafolder/spk37_2.wav",
+        "duration": 2.240,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 1.029
+            }
+        ],
+        "transcription": "you should be ashamed of yourself Gazidis"
+    },
+    "spk38_1": {
+        "wav": "datafolder/spk38_1.wav",
+        "duration": 3.188,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 3.188
+            }
+        ],
+        "transcription": "ha ha ha ha ha whoo whoo go cats"
+    },
+    "spk39_1": {
+        "wav": "datafolder/spk39_1.wav",
+        "duration": 4.742,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 2.734
+            }
+        ],
+        "transcription": "it's ridiculous Robbie, him, wenger wright will not turn around and give an apology to the fans that came out here"
+    },
+    "spk39_2": {
+        "wav": "datafolder/spk39_2.wav",
+        "duration": 5.372,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 5.372
+            }
+        ],
+        "transcription": "because he's too arrogant he's too shocked he got so much fear he he he's bigger than the club that's what he thinks"
+    },
+    "spk40_1": {
+        "wav": "datafolder/spk40_1.wav",
+        "duration": 4.995,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.805,
+                "end": 4.995
+            }
+        ],
+        "transcription": "we won the prime league last year we won it two years before that before that we won the champion's league before that we did the double"
+    },
+    "spk40_2": {
+        "wav": "datafolder/spk40_2.wav",
+        "duration": 8.508,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.811,
+                "end": 8.508
+            }
+        ],
+        "transcription": "last season, we won thirty games, thrty games, set a record, were absolutely fantastic, these are the same players and there is nothing there"
+    },
+    "spk40_3": {
+        "wav": "datafolder/spk40_3.wav",
+        "duration": 4.010,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 2.436
+            }
+        ],
+        "transcription": "as soons as he came on we had a focal point, we looked like we wanted it, he was powerful he played well"
+    },
+    "spk40_4": {
+        "wav": "datafolder/spk40_4.wav",
+        "duration": 4.444,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 4.444
+            }
+        ],
+        "transcription": "what were you thinking, what were you thinking, what did you do, thirty minutes"
+    },
+    "spk40_5": {
+        "wav": "datafolder/spk40_5.wav",
+        "duration": 2.044,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 1.015
+            }
+        ],
+        "transcription": "I want these players, let's go and look at these players"
+    },
+    "spk40_6": {
+        "wav": "datafolder/spk40_6.wav",
+        "duration": 2.637,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 1.927
+            }
+        ],
+        "transcription": "thiry million pound budget sorry Antonio we can't get them"
+    },
+    "spk40_7": {
+        "wav": "datafolder/spk40_7.wav",
+        "duration": 5.792,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 5.792
+            }
+        ],
+        "transcription": "Zappacosta drag Danny Drinkwater, took two months to get over the line, Zappacosta because we couldn't get another right win back that we wanted"
+    },
+    "spk41_1": {
+        "wav": "datafolder/spk41_1.wav",
+        "duration": 3.185,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 3.185
+            }
+        ],
+        "transcription": "every single time you got your first choice right back fit, and he's on the bench"
+    },
+    "spk42_1": {
+        "wav": "datafolder/spk42_1.wav",
+        "duration": 5.611,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.939,
+                "end": 5.611
+            }
+        ],
+        "transcription": "and the next time I prefer you let me finish my statements before you ask that question, is this the right thing to do for the american people"
+    },
+    "spk42_2": {
+        "wav": "datafolder/spk42_2.wav",
+        "duration": 2.900,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 1.950
+            }
+        ],
+        "transcription": "god I I didn't I didn't ask for an argument, I'm answering your question"
+    },
+    "spk43_1": {
+        "wav": "datafolder/spk43_1.wav",
+        "duration": 11.591,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 4.200,
+                "end": 11.591
+            }
+        ],
+        "transcription": "there's no doubt about it we are living in times of catastrophic crisis, what makes their humanitarian crisis so unimportant, is the color of their skin, is that they are not white, they are not europeen"
+    },
+    "spk44_1": {
+        "wav": "datafolder/spk44_1.wav",
+        "duration": 8.382,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.561,
+                "end": 8.382
+            }
+        ],
+        "transcription": "but essentially say nothing bad, like you, sitting there in the first row with your legs crossed and your vest on, you look focused"
+    },
+    "spk45_1": {
+        "wav": "datafolder/spk45_1.wav",
+        "duration": 8.956,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.255,
+                "end": 8.956
+            }
+        ],
+        "transcription": "is that it John Cena, is that it, with your blue eyes and your perfect hair and your beautiful three-piece suit your fashionable expensive three-piece suit"
+    },
+    "spk46_1": {
+        "wav": "datafolder/spk46_1.wav",
+        "duration": 6.781,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 6.781
+            }
+        ],
+        "transcription": "I needed help, and in seeking it I was ostracized that nearly ruined my life before it even began"
+    },
+    "spk47_1": {
+        "wav": "datafolder/spk47_1.wav",
+        "duration": 6.554,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 3.875,
+                "end": 6.554
+            }
+        ],
+        "transcription": "and he is on twenty to eighty milligrams of Sirach so I did not have my child to be a guinea pig"
+    },
+    "spk47_2": {
+        "wav": "datafolder/spk47_2.wav",
+        "duration": 8.552,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 8.552
+            }
+        ],
+        "transcription": "native woman did not have children to be meal tickets for lawyers psychiatrists judeges child welfare employees"
+    },
+    "spk48_1": {
+        "wav": "datafolder/spk48_1.wav",
+        "duration": 8.128,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.647,
+                "end": 8.128
+            }
+        ],
+        "transcription": "he wasn't allowed to come back and so when he returned home his parents ah you know were devastated and his mother had died"
+    },
+    "spk49_1": {
+        "wav": "datafolder/spk49_1.wav",
+        "duration": 5.379,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 3.321
+            }
+        ],
+        "transcription": "listening to that what is the difference between a pig and a puppy I see what it is today, some dogs have it now it's like some"
+    },
+    "spk50_1": {
+        "wav": "datafolder/spk50_1.wav",
+        "duration": 14.777,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 6.708,
+                "end": 14.777
+            }
+        ],
+        "transcription": "she insisted on trying to charge such a large fee that the event had to be cancelled, now I think that is as mean that is as mean that is as mean and grasping as a slumbering comedian I came from the bottom and I will not have it"
+    },
+    "spk51_1": {
+        "wav": "datafolder/spk51_1.wav",
+        "duration": 5.126,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 3.914
+            }
+        ],
+        "transcription": "the gun people are you kidding me, we had a shooting in des moines, and here's one more thing"
+    },
+    "spk51_2": {
+        "wav": "datafolder/spk51_2.wav",
+        "duration": 5.023,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.896,
+                "end": 5.023
+            }
+        ],
+        "transcription": "you and senator earns hearts and prayers whatever, why are you not down at those funerals"
+    },
+    "spk52_1": {
+        "wav": "datafolder/spk52_1.wav",
+        "duration": 5.244,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.746,
+                "end": 3.389
+            }
+        ],
+        "transcription": "cause you pushing that cash money west, and do what you gotta do, Dotiana is an e one record"
+    },
+    "spk52_2": {
+        "wav": "datafolder/spk52_2.wav",
+        "duration": 4.316,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 1.612,
+                "end": 4.316
+            }
+        ],
+        "transcription": "could have ceased and desist, am I not right, was we not on paperwork with cash money"
+    },
+    "spk53_1": {
+        "wav": "datafolder/spk53_1.wav",
+        "duration": 4.089,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.115,
+                "end": 4.089
+            }
+        ],
+        "transcription": "I think they got a little bit of out of hand of course, but listen listen no listen"
+    },
+    "spk54_1": {
+        "wav": "datafolder/spk54_1.wav",
+        "duration": 3.670,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.433,
+                "end": 3.670
+            }
+        ],
+        "transcription": "you do not realize or you do not see, I don't care what he did"
+    },
+    "spk55_1": {
+        "wav": "datafolder/spk55_1.wav",
+        "duration": 5.895,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 3.525,
+                "end": 5.895
+            }
+        ],
+        "transcription": "they've been out for like four months, but those were selling five thousand open sticker you know, so that ain't the car to get the deal on"
+    },
+    "spk55_2": {
+        "wav": "datafolder/spk55_2.wav",
+        "duration": 2.405,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 0.822
+            }
+        ],
+        "transcription": "hee now they were like okay yeah do you have any white"
+    },
+    "spk56_1": {
+        "wav": "datafolder/spk56_1.wav",
+        "duration": 5.379,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 1.415
+            }
+        ],
+        "transcription": "wanted to tell you about ahaha, I saw this fight in target and I normally would not talk about fight like I was that person"
+    },
+    "spk56_2": {
+        "wav": "datafolder/spk56_2.wav",
+        "duration": 3.299,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 1.791
+            }
+        ],
+        "transcription": "behind him I could even see that there was another person there right"
+    },
+    "spk56_3": {
+        "wav": "datafolder/spk56_3.wav",
+        "duration": 5.647,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 4.957,
+                "end": 5.647
+            }
+        ],
+        "transcription": "he pushes her with the card and she says what are you doing right and he says well go"
+    },
+    "spk56_4": {
+        "wav": "datafolder/spk56_4.wav",
+        "duration": 5.682,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 2.486
+            }
+        ],
+        "transcription": "true haha if that is all true, you could at least just be a reasonable person you know"
+    },
+    "spk57_1": {
+        "wav": "datafolder/spk57_1.wav",
+        "duration": 4.737,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.008,
+                "end": 4.737
+            }
+        ],
+        "transcription": "your new motion picture, tell us about it, tell us a little bit about it don't tell us the whole thing just a little bit about it"
+    },
+    "spk57_2": {
+        "wav": "datafolder/spk57_2.wav",
+        "duration": 4.376,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 3.541
+            }
+        ],
+        "transcription": "aha ha ha ha ha ha ha what does that mean, well we gotta go"
+    },
+    "spk58_1": {
+        "wav": "datafolder/spk58_1.wav",
+        "duration": 14.235,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 6.596,
+                "end": 14.235
+            }
+        ],
+        "transcription": "but understand what the difference between informal and impolite is and I won't tolerate impolite, if I hear one more, get up and walk out, yawn outside, stay out of class, whatever it is you need to do to get over it"
+    },
+    "spk59_1": {
+        "wav": "datafolder/spk59_1.wav",
+        "duration": 3.489,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 2.466
+            }
+        ],
+        "transcription": "I didn't do anything I sat down on my seat but I get kicked off"
+    },
+    "spk60_1": {
+        "wav": "datafolder/spk60_1.wav",
+        "duration": 7.938,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 6.206,
+                "end": 7.938
+            }
+        ],
+        "transcription": "when we were shooting this film I was in London and and and so many things have changed since I've lived there and I didn't recognize and I saw a prison I was like this is my neighbourhood"
+    },
+    "spk60_2": {
+        "wav": "datafolder/spk60_2.wav",
+        "duration": 5.167,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 3.528,
+                "end": 5.167
+            }
+        ],
+        "transcription": "so they were asking all the great chefs like Paul Prudhomme and and Emeril and stuff like can you cook up the nutria"
+    },
+    "spk61_1": {
+        "wav": "datafolder/spk61_1.wav",
+        "duration": 3.300,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 1.692
+            }
+        ],
+        "transcription": "I think that every night the week, anyway don't worry we're out of time, do you"
+    },
+    "spk62_1": {
+        "wav": "datafolder/spk62_1.wav",
+        "duration": 6.579,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 2.927,
+                "end": 6.579
+            }
+        ],
+        "transcription": "on twitter you can't follow at TNA to follow the wrestling company you gotta follow Impact Wrestling how stupid is this"
+    },
+    "spk62_2": {
+        "wav": "datafolder/spk62_2.wav",
+        "duration": 5.546,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 3.532,
+                "end": 5.546
+            }
+        ],
+        "transcription": "is named after your weekly show on prime time not the name of the game company"
+    },
+    "spk62_3": {
+        "wav": "datafolder/spk62_3.wav",
+        "duration": 6.653,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 2.963
+            }
+        ],
+        "transcription": "they resigned the same guys more time to be here how stupid is that, you're world champion because again the destination america told you they wanted is the champion"
+    },
+    "spk62_4": {
+        "wav": "datafolder/spk62_4.wav",
+        "duration": 9.632,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 6.046,
+                "end": 9.632
+            }
+        ],
+        "transcription": "and you in anyway shape or form, think that it's a good idea to interact on twitter with people in this capacity whatsoever, doesn't this seem like an incredibly stupid waste of freaking time"
+    },
+    "spk63_1": {
+        "wav": "datafolder/spk63_1.wav",
+        "duration": 2.962,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 1.632,
+                "end": 2.962
+            }
+        ],
+        "transcription": "the only change that ever happens, is when people stand out"
+    },
+    "spk64_1": {
+        "wav": "datafolder/spk64_1.wav",
+        "duration": 9.059,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 3.877,
+                "end": 9.059
+            }
+        ],
+        "transcription": "if you are going to be in here you are going to apologize to everybody person in this room and do it now, no you are not gonna say I'm sorry you are going to apologize for what you just did"
+    },
+    "spk65_1": {
+        "wav": "datafolder/spk65_1.wav",
+        "duration": 7.377,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.271,
+                "end": 7.377
+            }
+        ],
+        "transcription": "this is the hard part this is your top two things, pray for and with each other, everyday our kids are having a coffee with their mama"
+    },
+    "spk66_1": {
+        "wav": "datafolder/spk66_1.wav",
+        "duration": 9.756,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 7.446
+            }
+        ],
+        "transcription": "I remember being a little girl and praying to god asking him to let me have a love like my parents have, and now I stand here today and knowing that I am worthy of this kind of love"
+    },
+    "spk66_2": {
+        "wav": "datafolder/spk66_2.wav",
+        "duration": 3.695,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 3.695
+            }
+        ],
+        "transcription": "how grateful I am that you got to know my hero and my best friend"
+    },
+    "spk66_3": {
+        "wav": "datafolder/spk66_3.wav",
+        "duration": 7.355,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 7.355
+            }
+        ],
+        "transcription": "my mom has always been so proud of the man that you are, and I know that she is looking down at you right now, standing before me, smiling more than ever"
+    },
+    "spk67_1": {
+        "wav": "datafolder/spk67_1.wav",
+        "duration": 5.053,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.237,
+                "end": 5.053
+            }
+        ],
+        "transcription": "lounging in tenth position when he came in to to winning the champion's league in half a season"
+    },
+    "spk67_2": {
+        "wav": "datafolder/spk67_2.wav",
+        "duration": 3.380,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.910,
+                "end": 3.380
+            }
+        ],
+        "transcription": "might not even be eating during the game like we couldn't really eat"
+    },
+    "spk67_3": {
+        "wav": "datafolder/spk67_3.wav",
+        "duration": 3.522,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.300,
+                "end": 3.522
+            }
+        ],
+        "transcription": "you've done it again and I I've seen so much emotion coming from james today"
+    },
+    "spk68_1": {
+        "wav": "datafolder/spk68_1.wav",
+        "duration": 2.630,
+        "emotion": [
+            {
+                "emo": "angry",
+                "start": 0.0,
+                "end": 2.630
+            }
+        ],
+        "transcription": "it's just truly unbelievable, it just"
+    },
+    "spk69_1": {
+        "wav": "datafolder/spk69_1.wav",
+        "duration": 7.361,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.171,
+                "end": 7.361
+            }
+        ],
+        "transcription": "and she had such an impact on me but when she moved, it made me really realize how much of an impact she had on my life"
+    },
+    "spk69_2": {
+        "wav": "datafolder/spk69_2.wav",
+        "duration": 8.691,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 2.554,
+                "end": 8.691
+            }
+        ],
+        "transcription": "this past year has been really difficult, like getting used to my new life without my family and I kind of felt as if I lost my way with the lord"
+    },
+    "spk69_3": {
+        "wav": "datafolder/spk69_3.wav",
+        "duration": 10.775,
+        "emotion": [
+            {
+                "emo": "sad",
+                "start": 0.0,
+                "end": 10.775
+            }
+        ],
+        "transcription": "Chelsie was here every step of my side and she helped me grow at the lord again and made me a better person so thank you so much for being the best sister I could ever ask for"
+    },
+    "spk70_1": {
+        "wav": "datafolder/spk70_1.wav",
+        "duration": 2.153,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.252,
+                "end": 2.153
+            }
+        ],
+        "transcription": "maybe you wanna redo that intro again"
+    },
+    "spk70_2": {
+        "wav": "datafolder/spk70_2.wav",
+        "duration": 1.067,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.0,
+                "end": 1.067
+            }
+        ],
+        "transcription": "just end the video right now"
+    },
+    "spk71_1": {
+        "wav": "datafolder/spk71_1.wav",
+        "duration": 4.467,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.212,
+                "end": 2.620
+            }
+        ],
+        "transcription": "because I, I got into one of them, ok so I have Columbia open"
+    },
+    "spk72_1": {
+        "wav": "datafolder/spk72_1.wav",
+        "duration": 9.878,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 7.120,
+                "end": 9.878
+            }
+        ],
+        "transcription": "and have fun together, and learn an adventure and so as far as travel goes we are travelling this weekend we've got a lot of travel coming up which is so exciting"
+    },
+    "spk72_2": {
+        "wav": "datafolder/spk72_2.wav",
+        "duration": 4.848,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 2.478,
+                "end": 4.848
+            }
+        ],
+        "transcription": "so she got an admission email just now, congratulations Kate yes"
+    },
+    "spk73_1": {
+        "wav": "datafolder/spk73_1.wav",
+        "duration": 4.222,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 1.797,
+                "end": 4.222
+            }
+        ],
+        "transcription": "it is my pleasure to officially welcome you to the University of Kentucky"
+    },
+    "spk73_2": {
+        "wav": "datafolder/spk73_2.wav",
+        "duration": 3.705,
+        "emotion": [
+            {
+                "emo": "happy",
+                "start": 0.837,
+                "end": 2.435
+            }
+        ],
+        "transcription": "but the only way I know how to describe is like comparing it like"
+    }    
+}
