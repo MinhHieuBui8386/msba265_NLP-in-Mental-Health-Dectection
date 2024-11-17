@@ -1,0 +1,37 @@
+None   Voice Recordings       Unnamed: 1      Unnamed: 2         Unnamed: 3  ...  Unnamed: 10  Unnamed: 11  Unnamed: 12  Unnamed: 13
+0      Clip Number        Clip Name  Response Level  Displayed Emotion  ...          NaN          NaN          NaN          NaN     
+1              768  1010_MTI_SAD_XX              58                  S  ...          NaN          NaN          NaN          NaN     
+2             2981  1037_IWL_HAP_XX              39                  H  ...          NaN          NaN          NaN          NaN     
+3             1736  1022_IWW_FEA_XX              79                  F  ...          NaN          NaN          NaN          NaN     
+4             5471  1067_WSI_HAP_XX              40                  H  ...          NaN          NaN
+
+0  Clip Number        Clip Name  Response Level  Displayed Emotion
+1          768  1010_MTI_SAD_XX              58                  S
+2         2981  1037_IWL_HAP_XX              39                  H
+3         1736  1022_IWW_FEA_XX              79                  F
+4         5471  1067_WSI_HAP_XX              40                  H
+count    9907.000000
+mean       62.340567
+std        24.945661
+min         1.000000
+25%        45.000000
+50%        64.000000
+75%        83.000000
+max       100.000000
+Name: Response Level, dtype: float64
+Displayed Emotion
+A                    1733
+F                    1699
+H                    1696
+S                    1659
+D                    1651
+N                    1469
+
+Displayed Emotion
+A                    63.243508
+D                    61.448213
+Displayed Emotion          NaN
+F                    59.874632
+H                    66.103774
+N                    64.584071
+S                    58.977095  
