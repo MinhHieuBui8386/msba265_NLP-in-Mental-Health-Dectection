@@ -6,16 +6,16 @@ from PIL import Image
 import pandas as pd
 
 # Emotion mapping
-emotion_dict = {0: "Angry", 1: "Disgusted", 2: "Fearful", 3: "Happy", 4: "Neutral", 5: "Sad", 6: "Surprised"}
+emotion_dict = {0: "Angry", 1: "Happy", 2: "Sad", 3: "Surprised", 4: "Neutral"}
 
 # Set device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 # Loaded model
-model = models.resnet34(pretrained=False)
+model = models.resnet50(pretrained=False)
 model.fc = torch.nn.Linear(model.fc.in_features, len(emotion_dict)) 
-model.load_state_dict(torch.load("resnet34_fer2013_weights30-6300.pth", map_location=device))
+model.load_state_dict(torch.load("resnet50_emotion_model_30_6969.pth", map_location=device))
 model = model.to(device)
 model.eval()
 
@@ -28,7 +28,7 @@ transform = transforms.Compose([
 ])
 
 # Activate webcam or load a video
-cap = cv2.VideoCapture('test_video/0001.mp4')  # 0 -> Activate the webcam
+cap = cv2.VideoCapture(0)  # 0 -> Activate the webcam
 
 # Enable face detection
 face_detector = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
@@ -80,5 +80,5 @@ cv2.destroyAllWindows()
 
 # Convert results to DataFrame and save as CSV
 df_results = pd.DataFrame(frame_results)
-df_results.to_csv("data_analysis/test/emotion_analysis_results.csv", index=False)
+df_results.to_csv("emotion_analysis_results.csv", index=False)
 print("Frame-by-frame emotion analysis results have been saved to emotion_analysis_results.csv")
